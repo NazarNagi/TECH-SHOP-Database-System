@@ -1,1 +1,0 @@
-<Technology Shop.sql contents here>
